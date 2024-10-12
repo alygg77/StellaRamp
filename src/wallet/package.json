@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "f": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "stellar-sdk": "^12.3.0"
+  }
+}
