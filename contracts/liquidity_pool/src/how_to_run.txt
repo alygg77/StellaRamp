@@ -1,0 +1,16 @@
+stellar contract invoke --wasm target/wasm32-unknown-unknown/release/soroban_liquidity_pool_contract.wasm \
+    --id 1 \
+    -- \
+    deposit \
+    --to GBZV3NONYSUDVTEHATQO4BCJVFXJO3XQU5K32X3XREVZKSMMOZFO4ZXR \
+    --desired_a 100 \
+    --min_a 98 \
+    --desired_b 200 \
+    --min_b 196
+    /doesn't work
+
+
+
+
+
+    вставь свой стеллар аккаунт там где {} (приватный ключ)
